@@ -1,25 +1,6 @@
-Do the following queries in TRC.
-
-1    What are the titles of movies made before 2002?
-2    What is the name of an actor who was cast in the first (earliest) movie?
-3    Which actors (their names) have been cast in exactly one movie?
-4    In which years were at least three movies made?
-5    What are the names of the actors who have been cast in all of the movies (if any such actors exist)?
-6    What is the title of the movie with the highest vote count?
-
-
-CREATE TABLE movie ( movieid int, title string, year int, score float, votes int)
-CREATE TABLE actor ( actorid int, name string)
-
-CREATE TABLE casting (actorid int, movieid int, ordinal int)
-
-TRC
-
 1. {M.title | movie(M) and M.year < 2002}
 2. {A.name | actor(A) and exists C (casting(C) and C.actorid = A.actorid and exists M (movie(M) and M.movieid = C.movieid and not exists M2 (movie(M2) and M2.year < M.year)))}
 3. {A.name | actor(A) and exists C (casting(C) and C.actorid = A.actorid and not exists C2 (casting(C2) and C2.actorid = C.actorid and not C.movieid = C2.movieid))}
 4. {M1.year | movie(M1) and exists M2 (movie(M2) and M1.year = M2.year and exists M3 (movie(M3) and M1.year = M3.year and not M1.movieid = M2.movieid and not M1.movieid = M3.movieid and not M2.movieid = M3.movieid))}
 5. {A.name | actor(A) and not exists M (movie(M) and not exists C (casting(C) and C.movieid = M.movieid and C.actorid = A.actorid))}
 6. {M.title | movie(M) and not exists M2 (movie(M2) and M2.votes > M.votes)}
-
-DRC
