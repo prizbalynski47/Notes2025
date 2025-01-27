@@ -1,0 +1,6 @@
+1. {T | exists M, Y (movie(M, T, Y, _, _) and Y < 2002)}
+2. {N | exists A, M, Y (actor(A, N) and casting(A, M, _) and movie(M, _, Y, _, _) and not exists M2, Y2 (movie(M2, _, Y2, _, _) and Y2 < Y))}
+3. {N | exists A, C, M (actor(A, N) and casting(A, M, C) and not exists C2, M2 (casting(A, M2, C2) and not M = M2))}
+4. {Y | exists M1, M2, M3 (movie(M1, _, Y, _, _) and movie(M2, _, Y, _, _) and movie(M3, _, Y, _, _) and not M1 = M2 and not M1 = M3 and not M2 = M3)}
+5. {N | exists A (actor(A, N) and not exists M (movie(M, _, _, _, _) and exists C (casting(A, M, C))))}
+6. {T | exists M, V (movie(M, T, _, _, V) and not exists M2, V2 (movie(M2, _, _, _, V2) and V2 > V))}
