@@ -1,0 +1,37 @@
+q(a,c).
+q(e,e).
+q(c,d).
+r(a).
+r(b).
+r(c).
+t(A,B) :-
+  '_t1'(A,B).
+t(A,B) :-
+  '_t2'(A,B).
+'_t1'(b,X) :-
+  q(c,X),
+  r(X).
+'_t2'(X,g) :-
+  r(X).
+'_ht1'(b,X).
+'_ht2'(X,g).
+'_nht'(A,B) :-
+  not '_ht1'(A,B),
+  not '_ht2'(A,B).
+'_wt11'(b,X,c,X) :-
+  q(c,X),
+  r(X).
+'_wt12'(b,X,X) :-
+  q(c,X),
+  r(X).
+'_wt21'(X,g,X) :-
+  r(X).
+'_mt11'(b,X,c,X) :-
+  not '_ht2'(b,X),
+  not q(c,X).
+'_mt12'(b,X,X) :-
+  not '_ht2'(b,X),
+  not r(X).
+'_mt21'(X,g,X) :-
+  not '_ht1'(X,g),
+  not r(X).
