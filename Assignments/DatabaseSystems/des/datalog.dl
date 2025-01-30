@@ -1,0 +1,1778 @@
+actor(12,'Abdul Salaam El Razzac').
+actor(13,'Abe Vigoda').
+actor(19,'Adam Baldwin').
+actor(30,'Adam Scott').
+actor(38,'Adelle Lutz').
+actor(45,'Adrienne Corri').
+actor(47,'Afemo Omilami').
+actor(74,'Al Martino').
+actor(75,'Al Matthews').
+actor(77,'Al Pacino').
+actor(106,'Alan Polonsky').
+actor(121,'Albert Hall').
+actor(134,'Alec Guinness').
+actor(146,'Alex Coleman').
+actor(156,'Alex Norton').
+actor(157,'Alex Rocco').
+actor(180,'Alexis Arquette').
+actor(184,'Alfonso Freeman').
+actor(185,'Alfre Woodard').
+actor(189,'Alfred Molina').
+actor(197,'Alice Krige').
+actor(210,'Alison Waddell').
+actor(220,'Allan Kolman').
+actor(244,'Alonzo Brown').
+actor(246,'Alun Armstrong').
+actor(257,'Amanda Plummer').
+actor(258,'Amanda Walker').
+actor(261,'Amber Waddell').
+actor(290,'Andre B. Blake').
+actor(355,'Angus MacInnes').
+actor(406,'Anne Fletcher').
+actor(424,'Annette Helde').
+actor(427,'Annie Golden').
+actor(440,'Anthony \'Chip\' Brienza').
+actor(445,'Anthony Chinn').
+actor(446,'Anthony Clark').
+actor(447,'Anthony Crivello').
+actor(448,'Anthony Daniels').
+actor(456,'Anthony Guidera').
+actor(457,'Anthony Heald').
+actor(458,'Anthony Higgins').
+actor(459,'Anthony Hopkins').
+actor(478,'Anthony Sharp').
+actor(503,'Ariana Richards').
+actor(515,'Arnold Schwarzenegger').
+actor(545,'Arthur Senzy').
+actor(555,'Aubrey Morris').
+actor(565,'Austin O\'Brien').
+actor(576,'B.D. Wong').
+actor(590,'Barbara Coles').
+actor(612,'Barry Dennen').
+actor(618,'Barry McGovern').
+actor(643,'Bee Duffell').
+actor(653,'Ben Bode').
+actor(663,'Ben Marley').
+actor(671,'Benicio Del Toro').
+actor(687,'Bernard  Fox (I)').
+actor(692,'Bernard Hill').
+actor(694,'Bernard Horsfall').
+actor(703,'Bert  Williams (II)').
+actor(712,'Betsy Brantley').
+actor(745,'Bill  Raymond (I)').
+actor(750,'Bill Bolender').
+actor(764,'Bill Dalzell III').
+actor(769,'Bill Graham').
+actor(794,'Bill Paxton').
+actor(795,'Bill Pullman').
+actor(797,'Bill Reimbold').
+actor(800,'Bill Smitrovich').
+actor(823,'Billy Crystal').
+actor(826,'Billy Dee Williams').
+actor(827,'Billy Devlin').
+actor(838,'Billy Zane').
+actor(844,'Blain Fairman').
+actor(859,'Bob  Collins (III)').
+actor(863,'Bob  Peck (I)').
+actor(864,'Bob Adrian').
+actor(877,'Bob Gunton').
+actor(878,'Bob Harks').
+actor(893,'Bob Penny').
+actor(912,'Bokeem Woodbine').
+actor(927,'Brad Dourif').
+actor(931,'Brad Pitt').
+actor(959,'Brenda Hillhouse').
+actor(964,'Brendan  Kelly (I)').
+actor(967,'Brendan Gleeson').
+actor(970,'Brent Hinkley').
+actor(972,'Brent Spiner').
+actor(975,'Brett Cullen').
+actor(976,'Brett Rice').
+actor(977,'Brian  Cox (III)').
+actor(984,'Brian Brophy').
+actor(989,'Brian Delate').
+actor(1000,'Brian Libby').
+actor(1001,'Brian Markinson').
+actor(1022,'Brigitte Kahn').
+actor(1025,'Brion James').
+actor(1033,'Bronagh Gallagher').
+actor(1038,'Brooke Smith').
+actor(1045,'Bruce  Wright (I)').
+actor(1050,'Bruce Boa').
+actor(1051,'Bruce Bohne').
+actor(1060,'Bruce Kirkpatrick').
+actor(1071,'Bruce Willis').
+actor(1084,'Buck Kartalian').
+actor(1098,'Burnell Tucker').
+actor(1099,'Burr Steers').
+actor(1110,'Buzz Kilman').
+actor(1113,'Byron Minns').
+actor(1120,'C.J. Bau').
+actor(1136,'Cameron Thor').
+actor(1139,'Camilla Overbye Roos').
+actor(1155,'Carl Bressler').
+actor(1159,'Carl Duering').
+actor(1181,'Carlos Lacamara').
+actor(1199,'Carol Cleveland').
+actor(1202,'Carol Kane').
+actor(1222,'Carrie Fisher').
+actor(1224,'Cary Elwes').
+actor(1231,'Casey Siemaszko').
+actor(1236,'Castulo Guerra').
+actor(1280,'Charles A. Tamburro').
+actor(1323,'Charles Napier').
+actor(1331,'Charles Techman').
+actor(1345,'Charlotte Chatton').
+actor(1357,'Chazz Palminteri').
+actor(1394,'Chris Ellis').
+actor(1400,'Chris Isaak').
+actor(1406,'Chris Penn').
+actor(1410,'Chris Sarandon').
+actor(1413,'Christian Clemenson').
+actor(1421,'Christine Devine').
+actor(1423,'Christine Estabrook').
+actor(1453,'Christopher Guest').
+actor(1457,'Christopher John Fields').
+actor(1462,'Christopher Lloyd').
+actor(1464,'Christopher Malcolm').
+actor(1467,'Christopher Meloni').
+actor(1474,'Christopher Plummer').
+actor(1479,'Christopher Walken').
+actor(1486,'Chuck Aber').
+actor(1505,'Clair Forlani').
+actor(1515,'Clancy Brown').
+actor(1531,'Claude Rains').
+actor(1556,'Clint Howard').
+actor(1559,'Clive Merrison').
+actor(1560,'Clive Revill').
+actor(1569,'Colette Hiller').
+actor(1574,'Colin Firth').
+actor(1580,'Colleen Camp').
+actor(1586,'Connie Booth').
+actor(1621,'Courtney Gains').
+actor(1625,'Craig  Kelly (II)').
+actor(1634,'Crispin Glover').
+actor(1639,'Cully Fredricksen').
+actor(1640,'Curt Bois').
+actor(1682,'Damien Leake').
+actor(1692,'Dan Butler').
+actor(1695,'Dan Hedaya').
+actor(1697,'Dan Lauria').
+actor(1704,'Dan Stanton').
+actor(1748,'Daniel Zacapa').
+actor(1749,'Daniel von Bargen').
+actor(1763,'Danny Darst').
+actor(1764,'Danny DeVito').
+actor(1776,'Danny Nucci').
+actor(1782,'Dant McCarthy').
+actor(1806,'Daryl Hannah').
+actor(1822,'David  Andrews (I)').
+actor(1824,'David  Brisbin (I)').
+actor(1837,'David  Morse (I)').
+actor(1838,'David  Pressman (I)').
+actor(1841,'David  Warner (I)').
+actor(1851,'David Bowe').
+actor(1875,'David Early').
+actor(1880,'David Gant').
+actor(1889,'David Harold Brown').
+actor(1932,'David Proval').
+actor(1933,'David Prowse').
+actor(1941,'David S. Lomax').
+actor(1950,'David Steen').
+actor(1976,'DeVaughn Nixon').
+actor(1977,'Dean Cundey').
+actor(1981,'Dean Norris').
+actor(2034,'Delos V. Smith Jr.').
+actor(2040,'Denholm Elliott').
+actor(2044,'Denis Lawson').
+actor(2052,'Denney Pierce').
+actor(2071,'Dennis Hopper').
+actor(2089,'Derek Kim').
+actor(2090,'Derek Webster').
+actor(2111,'Diane Baker').
+actor(2116,'Diane Keaton').
+actor(2121,'Diane Rodriguez').
+actor(2132,'Dick Cavett').
+actor(2146,'Dick Stilwell').
+actor(2185,'Dominique Jennings').
+actor(2189,'Don  Henderson (II)').
+actor(2196,'Don Blakely').
+actor(2197,'Don Brockett').
+actor(2203,'Don Fellows').
+actor(2204,'Don Fischer').
+actor(2212,'Don Lake').
+actor(2217,'Don McManus').
+actor(2229,'Don Stanton').
+actor(2230,'Don Stark').
+actor(2233,'Donal Gibson').
+actor(2241,'Donald Fullilove').
+actor(2254,'Donald Zinn').
+actor(2304,'Douglas Rain').
+actor(2323,'Duffy Gaver').
+actor(2340,'Dwight Hicks').
+actor(2341,'Dwight Marfield').
+actor(2358,'Earl Boen').
+actor(2377,'Ed Harris').
+actor(2411,'Eddie Tagoe').
+actor(2432,'Edward Bunker').
+actor(2433,'Edward Furlong').
+actor(2441,'Edward James Olmos').
+actor(2475,'Eleanor Clift').
+actor(2536,'Elsa Raven').
+actor(2538,'Elston Ridgle').
+actor(2547,'Emily Ann Lloyd').
+actor(2555,'Endre Hules').
+actor(2557,'Ennalls Berl').
+actor(2563,'Eric Braeden').
+actor(2567,'Eric Clark').
+actor(2570,'Eric Idle').
+actor(2581,'Eric Stoltz').
+actor(2588,'Erik Holland').
+actor(2645,'Ewan McGregor').
+actor(2646,'Ewan Stewart').
+actor(2647,'Ewen Bremner').
+actor(2679,'Finlay Welsh').
+actor(2705,'Frances  Fisher (I)').
+actor(2710,'Frances McDormand').
+actor(2718,'Franco Citti').
+actor(2726,'Frank  Marshall (I)').
+actor(2727,'Frank  Miller (I)').
+actor(2740,'Frank Cavestani').
+actor(2751,'Frank Gorshin').
+actor(2759,'Frank Medrano').
+actor(2761,'Frank Novak').
+actor(2764,'Frank Oz').
+actor(2769,'Frank Seals Jr.').
+actor(2778,'Frank Whaley').
+actor(2780,'Frankie Faison').
+actor(2816,'Frederic Forrest').
+actor(2817,'Frederic W. Barnes').
+actor(2820,'Frederick Strother').
+actor(2842,'G.D. Spradlin').
+actor(2845,'Gabriel Byrne').
+actor(2848,'Gabriel Jarret').
+actor(2864,'Garrick Hagon').
+actor(2899,'Gary Houston').
+actor(2903,'Gary Lee Davis').
+actor(2911,'Gary Riley').
+actor(2913,'Gary Sinise').
+actor(2917,'Gates McFadden').
+actor(2930,'Gene Borkan').
+actor(2954,'Geoffrey Blake').
+actor(2969,'George  Harris (II)').
+actor(2970,'George  Kelly (II)').
+actor(2974,'George \'Buck\' Flower').
+actor(2979,'George C. Scott').
+actor(2985,'George Christy').
+actor(2990,'George DiCenzo').
+actor(3046,'Gerald R. Molen').
+actor(3052,'Gerard G. Williams').
+actor(3054,'Gerard McSorley').
+actor(3067,'Giancarlo Esposito').
+actor(3069,'Gianni Russo').
+actor(3100,'Glenn Beck').
+actor(3118,'Gloria Stuart').
+actor(3121,'Godfrey Quigley').
+actor(3123,'Googy Gress').
+actor(3125,'Gordon Greene').
+actor(3144,'Graham Chapman').
+actor(3156,'Granville \'Danny\' Young').
+actor(3161,'Greg Collins').
+actor(3192,'Gregory Sporleder').
+actor(3216,'Gwenda Deacon').
+actor(3218,'Gwyneth Paltrow').
+actor(3227,'Hal Galili').
+actor(3270,'Harris Savides').
+actor(3272,'Harrison Ford').
+actor(3284,'Harry Connick Jr.').
+actor(3285,'Harry Dean Stanton').
+actor(3294,'Harry Northup').
+actor(3297,'Harry Waters Jr.').
+actor(3301,'Harve Presnell').
+actor(3304,'Harvey Fierstein').
+actor(3308,'Harvey Keitel').
+actor(3317,'Hawthorne James').
+actor(3333,'Heidi Schanz').
+actor(3340,'Helen Horton').
+actor(3426,'Howard Platt').
+actor(3443,'Hugh Ross').
+actor(3448,'Humphrey Bogart').
+actor(3455,'Ian Bannen').
+actor(3462,'Ian Holm').
+actor(3463,'Ian Liston').
+actor(3489,'Ingo Neuhaus').
+actor(3490,'Ingrid Bergman').
+actor(3506,'Irma St. Paule').
+actor(3519,'Ishaq Bux').
+actor(3526,'Ivy Bethune').
+actor(3528,'Jrgen Prochnow').
+actor(3547,'J.J. Cohen').
+actor(3561,'Jack  Ford (III)').
+actor(3563,'Jack  McKenzie (I)').
+actor(3564,'Jack  Moore (IV)').
+actor(3580,'Jack Conley').
+actor(3581,'Jack Creley').
+actor(3603,'Jack Nicholson').
+actor(3609,'Jack Purvis').
+actor(3611,'Jack Shearer').
+actor(3613,'Jack Thibeau').
+actor(3668,'James  Keane (I)').
+actor(3676,'James B. Howard').
+actor(3682,'James Caan').
+actor(3687,'James Caviezel').
+actor(3691,'James Cosmo').
+actor(3695,'James Cromwell').
+actor(3698,'James Deeth').
+actor(3703,'James Duval').
+actor(3704,'James Earl Jones').
+actor(3722,'James Hong').
+actor(3727,'James Kisicki').
+actor(3731,'James Lancaster').
+actor(3754,'James Rebhorn').
+actor(3757,'James Ritz').
+actor(3767,'James Tolkan').
+actor(3772,'James Whitmore').
+actor(3777,'Jamie Abbott').
+actor(3791,'Jana Marie Hupp').
+actor(3804,'Jane Jenkins').
+actor(3832,'Jason Barry').
+actor(3836,'Jason Hervey').
+actor(3841,'Jason Marin').
+actor(3854,'Jay Acovone').
+actor(3896,'Jean Speegle Howard').
+actor(3915,'Jeannie Linero').
+actor(3932,'Jeff Goldblum').
+actor(3941,'Jeff O\'Haco').
+actor(3952,'Jeffrey DeMunn').
+actor(3968,'Jenette Goldstein').
+actor(4006,'Jeremy Sinden').
+actor(4020,'Jerry Dunphy').
+actor(4027,'Jerry Harte').
+actor(4038,'Jerry Ziesmer').
+actor(4097,'Jim Meskimen').
+actor(4101,'Jim Palmer').
+actor(4102,'Jim Piddock').
+actor(4103,'Jim Roche').
+actor(4117,'Jimmy Keogh').
+actor(4143,'Joanna Cassidy').
+actor(4164,'Jodie Foster').
+actor(4168,'Joe Alaskey').
+actor(4184,'Joe Fowler').
+actor(4201,'Joe Morton').
+actor(4213,'Joe Savino').
+actor(4216,'Joe Spano').
+actor(4221,'Joe Turkel').
+actor(4239,'Joey Perillo').
+actor(4265,'John  Hollis (I)').
+actor(4278,'John  McLaughlin (I)').
+actor(4281,'John  Morton (I)').
+actor(4297,'John  Young (I)').
+actor(4320,'John Bennett Perry').
+actor(4331,'John C. McGinley').
+actor(4335,'John Capodice').
+actor(4337,'John Carroll Lynch').
+actor(4340,'John Cassini').
+actor(4341,'John Cazale').
+actor(4345,'John Cleese').
+actor(4346,'John Clive').
+actor(4370,'John Dullaghan').
+actor(4373,'John Enos').
+actor(4407,'John Horton').
+actor(4411,'John Hurt').
+actor(4418,'John Kavanagh').
+actor(4422,'John Laughlin').
+actor(4424,'John Lees').
+actor(4435,'John M. Mathews').
+actor(4441,'John Marley').
+actor(4461,'John Murtagh').
+actor(4462,'John Nathan').
+actor(4482,'John Qualen').
+actor(4483,'John R. Woodward').
+actor(4486,'John Ratzenberger').
+actor(4487,'John Rhys-Davies').
+actor(4497,'John Savident').
+actor(4508,'John Short').
+actor(4510,'John Spencer').
+actor(4516,'John Storey').
+actor(4520,'John Travolta').
+actor(4526,'John Voldstad').
+actor(4527,'John Walcutt').
+actor(4562,'Jon Matthews').
+actor(4567,'Jon Seda').
+actor(4578,'Jonathan Frakes').
+actor(4580,'Jonathan Hyde').
+actor(4593,'Jonny Lee Miller').
+actor(4594,'Jophery C. Brown').
+actor(4612,'Josef Pilato').
+actor(4630,'Joseph Mazzello').
+actor(4631,'Joseph McKenna').
+actor(4633,'Joseph Patrick Kelly').
+actor(4636,'Joseph Ragno').
+actor(4662,'Josip Elic').
+actor(4672,'Juan A. Riojas').
+actor(4677,'Judd Hirsch').
+actor(4680,'Jude Ciccolella').
+actor(4708,'Julia Sweeney').
+actor(4714,'Julian Glover').
+actor(4720,'Julian Wadham').
+actor(4725,'Julie Araskog').
+actor(4733,'Julie Donatt').
+actor(4734,'Julie H. Morgan').
+actor(4748,'Juliette Binoche').
+actor(4782,'Karen Allen').
+actor(4789,'Karen Maruyama').
+actor(4803,'Karl Warren').
+actor(4808,'Kasi Lemmons').
+actor(4819,'Kate Winslet').
+actor(4831,'Kathleen Quinlan').
+actor(4840,'Kathryn Mullen').
+actor(4845,'Kathy Bates').
+actor(4846,'Kathy Griffin').
+actor(4857,'Keenan Wynn').
+actor(4859,'Keir Dullea').
+actor(4860,'Keith  Allen (I)').
+actor(4904,'Ken Daly').
+actor(4906,'Ken Gibbel').
+actor(4913,'Ken Kells').
+actor(4919,'Ken Magee').
+actor(4936,'Kenneth Colley').
+actor(4948,'Kenneth Utt').
+actor(4950,'Kenny  Baker (I)').
+actor(4965,'Kerry Rossall').
+actor(4968,'Kevin  Allen (I)').
+actor(4973,'Kevin  Thompson (III)').
+actor(4975,'Kevin Bacon').
+actor(4980,'Kevin Cooney').
+actor(4993,'Kevin Mangan').
+actor(5000,'Kevin Pollak').
+actor(5003,'Kevin Sifuentes').
+actor(5004,'Kevin Spacey').
+actor(5005,'Kevin Thigpen').
+actor(5040,'Kimberly Beck').
+actor(5046,'Kiran Shah').
+actor(5048,'Kirk Baltz').
+actor(5052,'Kirk Ward').
+actor(5067,'Kristin Scott Thomas').
+actor(5102,'Lamont Arnold').
+actor(5109,'Lance Henriksen').
+actor(5126,'Larry Brandenburg').
+actor(5154,'Laura Dern').
+actor(5161,'Laura Lovelace').
+actor(5169,'Lauren Roselli').
+actor(5173,'Laurence Fishburne').
+actor(5181,'Lawrence Bender').
+actor(5185,'Lawrence T. Wrentz').
+actor(5186,'Lawrence Tierney').
+actor(5190,'LeVar Burton').
+actor(5191,'Lea Thompson').
+actor(5200,'Lee Golden').
+actor(5203,'Lee McCain').
+actor(5208,'Lee Ross').
+actor(5220,'Leib Lensky').
+actor(5227,'Leland Orser').
+actor(5233,'Lennie Loftin').
+actor(5235,'Lenny Montana').
+actor(5259,'Leonard Rossiter').
+actor(5266,'Leonardo DiCaprio').
+actor(5267,'Leonid Kinskey').
+actor(5284,'Leslie Schofield').
+actor(5285,'Levani').
+actor(5296,'Lexie Bigham').
+actor(5299,'Liam Carney').
+actor(5305,'Liisa Repo-Martell').
+actor(5323,'Linda Hamilton').
+actor(5328,'Linda Kaye').
+actor(5329,'Linda Kerns').
+actor(5348,'Lisa Freeman').
+actor(5350,'Lisa Gay Hamilton').
+actor(5351,'Lisa Jakub').
+actor(5361,'Lisa Talerico').
+actor(5375,'Lloyd L. Tolbert').
+actor(5395,'Loren Dean').
+actor(5441,'Louis Lombardi').
+actor(5445,'Louisa  Marie (I)').
+actor(5446,'Louisa Moritz').
+actor(5447,'Louise Fletcher').
+actor(5488,'Lyman Ward').
+actor(5501,'M. Emmet Walsh').
+actor(5511,'Madeleine Lebeau').
+actor(5512,'Madeleine Stowe').
+actor(5514,'Madge Ryan').
+actor(5525,'Mae Whitman').
+actor(5535,'Maia Brewton').
+actor(5537,'Majel Barrett').
+actor(5540,'Mal Whyte').
+actor(5544,'Malcolm McDowell').
+actor(5547,'Malcolm Storry').
+actor(5548,'Malcolm Tierney').
+actor(5551,'Mandy Patinkin').
+actor(5570,'Marc Coppola').
+actor(5575,'Marc McClure').
+actor(5610,'Margaret Colin').
+actor(5618,'Margaret Tyzack').
+actor(5624,'Margery Mason').
+actor(5639,'Maria de Medeiros').
+actor(5658,'Marina Sirtis').
+actor(5684,'Mark  Thompson (II)').
+actor(5691,'Mark Boone Jr.').
+actor(5695,'Mark Christopher Lawrence').
+actor(5703,'Mark Hamill').
+actor(5717,'Mark Matheisen').
+actor(5723,'Mark Rolston').
+actor(5731,'Mark Wheeler').
+actor(5734,'Marla Sucharetza').
+actor(5739,'Marlon Brando').
+actor(5746,'Marshall R. Teague').
+actor(5758,'Martin Ferrero').
+actor(5762,'Martin Jarvis').
+actor(5766,'Martin Murphy').
+actor(5769,'Martin Serene').
+actor(5770,'Martin Sheen').
+actor(5804,'Mary Kate Schellhardt').
+actor(5811,'Mary McDonnell').
+actor(5823,'Marya Small').
+actor(5847,'Matt Ross').
+actor(5864,'Matthew Scurfield').
+actor(5892,'Max Elliott Slade').
+actor(5894,'Max Grodnchik').
+actor(5905,'Meadow Williams').
+actor(5921,'Mel Gibson').
+actor(5923,'Mel Smith').
+actor(5960,'Michael  Bates (I)').
+actor(5997,'Michael Berryman').
+actor(5998,'Michael Biehn').
+actor(6005,'Michael Burgess').
+actor(6006,'Michael Byrne').
+actor(6023,'Michael Culver').
+actor(6031,'Michael Dorn').
+actor(6037,'Michael Ensign').
+actor(6054,'Michael Gover').
+actor(6065,'Michael J. Fox').
+actor(6068,'Michael Jace').
+actor(6084,'Michael Madsen').
+actor(6087,'Michael Massee').
+actor(6100,'Michael Palin').
+actor(6108,'Michael Reid MacKay').
+actor(6123,'Michael Sheard').
+actor(6127,'Michael Sottile').
+actor(6140,'Michael Winther').
+actor(6179,'Miguel  Sandoval (I)').
+actor(6201,'Mike Jolly').
+actor(6208,'Mike Muscat').
+actor(6216,'Miko Hughes').
+actor(6254,'Mirron E. Willis').
+actor(6287,'Morgan Freeman').
+actor(6289,'Morgan Paull').
+actor(6291,'Morgana King').
+actor(6297,'Morton Kondracke').
+actor(6310,'Mykelti Williamson').
+actor(6349,'Nathan George').
+actor(6357,'Neal McDonough').
+actor(6360,'Ned Bellamy').
+actor(6364,'Ned Vaughn').
+actor(6371,'Neil Giuntoli').
+actor(6373,'Neil Innes').
+actor(6376,'Neil Summers').
+actor(6381,'Nelson Mashita').
+actor(6390,'Niall O\'Brien').
+actor(6394,'Nicholas Cascone').
+actor(6437,'Nicolas Cage').
+actor(6453,'Nikki Cox').
+actor(6467,'Noel Evangelisti').
+actor(6482,'Norman Alden').
+actor(6488,'Norman Chancer').
+actor(6501,'Norwich Duff').
+actor(6508,'Obba Babatund').
+actor(6520,'Oliver Maguire').
+actor(6593,'Pat McNamara').
+actor(6598,'Pat Roach').
+actor(6627,'Patrick  Magee (I)').
+actor(6645,'Patrick McGoohan').
+actor(6654,'Patrick Stewart').
+actor(6665,'Patti Yasutake').
+actor(6668,'Patty Raya').
+actor(6670,'Paul  Freeman (I)').
+actor(6674,'Paul  Maxwell (I)').
+actor(6690,'Paul Bartel').
+actor(6702,'Paul Calderon').
+actor(6721,'Paul Henreid').
+actor(6736,'Paul Lazar').
+actor(6737,'Paul LeClair').
+actor(6741,'Paul Mantee').
+actor(6745,'Paul McCrane').
+actor(6754,'Paul Raczkowski').
+actor(6755,'Paul Reiser').
+actor(6809,'Pete Postlethwaite').
+actor(6816,'Peter  Greene (I)').
+actor(6821,'Peter  Mayhew (II)').
+actor(6834,'Peter Brocco').
+actor(6837,'Peter Bull').
+actor(6845,'Peter Cook').
+actor(6848,'Peter Crombie').
+actor(6850,'Peter Cushing').
+actor(6851,'Peter Dobson').
+actor(6861,'Peter Falk').
+actor(6873,'Peter Kent').
+actor(6879,'Peter Lorre').
+actor(6891,'Peter Mullan').
+actor(6902,'Peter Schrum').
+actor(6904,'Peter Sellers').
+actor(6906,'Peter Stormare').
+actor(6924,'Phil Kelly').
+actor(6938,'Philip  Roth (II)').
+actor(6939,'Philip  Stone (I)').
+actor(7006,'Quentin Tarantino').
+actor(7010,'R. Lee Ermey').
+actor(7022,'Rachel Schadt').
+actor(7043,'Ralph Fiennes').
+actor(7051,'Ralph Peduto').
+actor(7060,'Rance Howard').
+actor(7076,'Randy Oglesby').
+actor(7079,'Randy Quaid').
+actor(7081,'Raphael Sbarge').
+actor(7095,'Ray Hassett').
+actor(7100,'Ray McKinnon').
+actor(7112,'Raymond Coulthard').
+actor(7117,'Raymond O\'Connor').
+actor(7122,'Read Morgan').
+actor(7130,'Rebecca Jane Klingler').
+actor(7141,'Reg E. Cathey').
+actor(7180,'Ricco Ross').
+actor(7183,'Rich Turner').
+actor(7203,'Richard Attenborough').
+actor(7219,'Richard Bright').
+actor(7251,'Richard Graham').
+actor(7265,'Richard Kiley').
+actor(7268,'Richard L. Duran').
+actor(7270,'Richard Le Parmentier').
+actor(7271,'Richard Leaf').
+actor(7283,'Richard Oldfield').
+actor(7285,'Richard Portnow').
+actor(7291,'Richard Roundtree').
+actor(7294,'Richard Schiff').
+actor(7297,'Richard Speight Jr.').
+actor(7336,'Rick Warner').
+actor(7380,'Robert  Beatty (I)').
+actor(7382,'Robert  Carlyle (I)').
+actor(7394,'Robert  Patrick (I)').
+actor(7432,'Robert Duvall').
+actor(7444,'Robert Haley').
+actor(7453,'Robert J. Stephenson').
+actor(7462,'Robert Krantz').
+actor(7472,'Robert Loggia').
+actor(7492,'Robert Picardo').
+actor(7502,'Robert Ruth').
+actor(7522,'Robert Winley').
+actor(7547,'Robin Wright').
+actor(7556,'Rocky Taylor').
+actor(7577,'Roger Corman').
+actor(7592,'Rohn Thomas').
+actor(7600,'Ron  Rondell (II)').
+actor(7603,'Ron  Young (I)').
+actor(7612,'Ron Donachie').
+actor(7624,'Ron Pitts').
+actor(7633,'Ron Vawter').
+actor(7640,'Ronald Lacey').
+actor(7653,'Rosalind Ayres').
+actor(7657,'Rosanna Arquette').
+actor(7676,'Ross Bagley').
+actor(7697,'Rozwill Young').
+actor(7705,'Rudy Bond').
+actor(7717,'Rupert Vansittart').
+actor(7735,'Rutger Hauer').
+actor(7746,'Ryan Holihan').
+actor(7753,'S. Epatha Merkerson').
+actor(7756,'Sachi Parker').
+actor(7765,'Sally Field').
+actor(7767,'Sally Kinghorne').
+actor(7770,'Sally Wingert').
+actor(7775,'Sam  Anderson (I)').
+actor(7777,'Sam Bottoms').
+actor(7788,'Sam Neill').
+actor(7800,'Sam Whipple').
+actor(7810,'Samuel L. Jackson').
+actor(7856,'Sayed Badreya').
+actor(7857,'Scatman Crothers').
+actor(7874,'Scott Glenn').
+actor(7892,'Sean  Sullivan (I)').
+actor(7896,'Sean Connery').
+actor(7903,'Sean McGinley').
+actor(7913,'Sean Young').
+actor(7930,'Shane Rimmer').
+actor(7933,'Shannon Wilcox').
+actor(7937,'Sharon Anderson').
+actor(7959,'Shay Duffin').
+actor(7966,'Sheila Raynor').
+actor(7968,'Shelagh Fraser').
+actor(7975,'Shelley Long').
+actor(7994,'Shirley Henderson').
+actor(8011,'Sigourney Weaver').
+actor(8015,'Simon  Jones (I)').
+actor(8026,'Simonetta Stefanelli').
+actor(8028,'Siobhan Fallon').
+actor(8036,'Slim Pickens').
+actor(8103,'Stephen Baldwin').
+actor(8105,'Stephen Bridgewater').
+actor(8131,'Stephen Wesley Bridgewater').
+actor(8133,'Sterling Hayden').
+actor(8139,'Steve  Park (I)').
+actor(8148,'Steve Buscemi').
+actor(8154,'Steve Giannelli').
+actor(8173,'Steve Rankin').
+actor(8175,'Steve Reevis').
+actor(8186,'Steven  Wright (I)').
+actor(8188,'Steven Berkoff').
+actor(8229,'Stuart Rudin').
+actor(8273,'Susan Vidler').
+actor(8288,'Suzy Amis').
+actor(8295,'Sydney Greenstreet').
+actor(8296,'Sydney Lassick').
+actor(8319,'Talia Shire').
+actor(8322,'Tam White').
+actor(8348,'Ted Grossman').
+actor(8351,'Ted Levine').
+actor(8353,'Ted Markland').
+actor(8366,'Tere Livrano').
+actor(8382,'Terrence Evans').
+actor(8388,'Terry Forrestal').
+actor(8390,'Terry Gilliam').
+actor(8391,'Terry Jones').
+actor(8397,'Terry Richards').
+actor(8414,'Thom Barry').
+actor(8418,'Thomas  Crawford (I)').
+actor(8426,'Thomas F. Duffy').
+actor(8427,'Thomas F. Wilson').
+actor(8435,'Thomas J. Hageboeck').
+actor(8472,'Tim Kelleher').
+actor(8481,'Tim Robbins').
+actor(8483,'Tim Roth').
+actor(8530,'Todd Hallowell').
+actor(8532,'Todd Louiso').
+actor(8538,'Tom  Mason (I)').
+actor(8548,'Tom  Wood (II)').
+actor(8562,'Tom Hanks').
+actor(8597,'Tom Skerritt').
+actor(8601,'Tom Towles').
+actor(8612,'Tommy Flanagan').
+actor(8616,'Tommy Lafitte').
+actor(8621,'Tommy Thomas').
+actor(8656,'Tony Giorgio').
+actor(8680,'Tony Simotes').
+actor(8683,'Tony Todd').
+actor(8684,'Tony Vogel').
+actor(8691,'Tracey Walter').
+actor(8697,'Tracy Reed').
+actor(8698,'Tracy Reiner').
+actor(8720,'Tudor Sherrard').
+actor(8725,'Tutte Lemkow').
+actor(8735,'Uma Thurman').
+actor(8757,'Van Ling').
+actor(8761,'Vanessa J. Wells').
+actor(8767,'Venessia Valentino').
+actor(8777,'Veronica Cartwright').
+actor(8781,'Vic Tablian').
+actor(8792,'Victor Garber').
+actor(8832,'Vincent Schiavelli').
+actor(8838,'Ving Rhames').
+actor(8850,'Vito D\'Ambrosio').
+actor(8851,'Vito Scotti').
+actor(8857,'Vivica A. Fox').
+actor(8875,'Wallace Shawn').
+actor(8899,'Walter von Huene').
+actor(8908,'Warren Clarke').
+actor(8911,'Warren Keith').
+actor(8920,'Wayne A. Evenson').
+actor(8924,'Wayne Duvall').
+actor(8928,'Wayne Knight').
+actor(8935,'Wendie Jo Sperber').
+actor(8946,'Wendy L. Walsh').
+actor(8961,'Whitby Hertford').
+actor(8971,'Will Hare').
+actor(8978,'Will Sampson').
+actor(8979,'Will Smith').
+actor(8983,'Willem Dafoe').
+actor(9005,'William Duell').
+actor(9009,'William Forsythe').
+actor(9014,'William H. Macy').
+actor(9017,'William Hootkins').
+actor(9018,'William Hope').
+actor(9029,'William Masson').
+actor(9040,'William Redfield').
+actor(9043,'William Sadler').
+actor(9044,'William Sanderson').
+actor(9060,'Willie Garson').
+actor(9062,'Willoughby Gray').
+actor(9069,'Wolf Kahler').
+actor(9081,'Xander Berkeley').
+actor(9087,'Yaphet Kotto').
+casting(12,16,39).
+casting(13,23,11).
+casting(19,8,11).
+casting(30,19,16).
+casting(38,14,28).
+casting(45,31,6).
+casting(47,12,53).
+casting(74,23,16).
+casting(75,13,9).
+casting(77,23,2).
+casting(106,13,19).
+casting(121,28,5).
+casting(134,1,5).
+casting(134,6,10).
+casting(146,14,42).
+casting(156,5,27).
+casting(157,23,22).
+casting(180,2,43).
+casting(184,7,21).
+casting(184,24,25).
+casting(185,19,8).
+casting(189,10,7).
+casting(197,19,10).
+casting(210,4,53).
+casting(220,24,20).
+casting(244,34,4).
+casting(246,5,24).
+casting(257,2,2).
+casting(258,33,39).
+casting(261,4,54).
+casting(290,14,44).
+casting(355,1,19).
+casting(406,4,96).
+casting(424,19,24).
+casting(427,21,58).
+casting(440,21,23).
+casting(445,10,19).
+casting(446,26,46).
+casting(447,8,65).
+casting(448,1,6).
+casting(448,6,5).
+casting(456,26,59).
+casting(457,14,6).
+casting(458,10,9).
+casting(459,14,11).
+casting(478,31,18).
+casting(503,32,9).
+casting(515,16,1).
+casting(515,39,1).
+casting(515,48,1).
+casting(515,94,1).
+casting(515,180,1).
+casting(515,263,1).
+casting(515,321,1).
+casting(515,334,1).
+casting(515,410,38).
+casting(515,440,1).
+casting(515,471,1).
+casting(515,629,1).
+casting(515,746,1).
+casting(515,932,1).
+casting(515,960,1).
+casting(515,1106,1).
+casting(515,1339,1).
+casting(515,1551,1).
+casting(515,1622,1).
+casting(515,1644,2).
+casting(545,30,55).
+casting(555,31,13).
+casting(565,30,52).
+casting(576,32,7).
+casting(590,13,22).
+casting(612,4,80).
+casting(618,5,22).
+casting(643,18,10).
+casting(653,30,36).
+casting(663,30,13).
+casting(671,9,3).
+casting(687,4,27).
+casting(692,4,6).
+casting(694,5,46).
+casting(703,9,32).
+casting(712,15,17).
+casting(745,21,10).
+casting(750,7,43).
+casting(764,14,45).
+casting(769,28,31).
+casting(794,4,10).
+casting(794,13,6).
+casting(794,30,3).
+casting(795,8,2).
+casting(797,10,13).
+casting(800,8,18).
+casting(823,15,13).
+casting(826,6,4).
+casting(827,26,31).
+casting(838,4,3).
+casting(838,25,14).
+casting(844,13,21).
+casting(859,24,15).
+casting(863,32,5).
+casting(864,21,7).
+casting(877,7,3).
+casting(878,12,45).
+casting(893,12,10).
+casting(912,26,12).
+casting(927,34,30).
+casting(931,21,18).
+casting(931,24,4).
+casting(959,2,26).
+casting(964,26,15).
+casting(967,5,6).
+casting(970,14,40).
+casting(972,8,12).
+casting(972,19,3).
+casting(975,30,10).
+casting(976,12,33).
+casting(977,5,19).
+casting(984,7,53).
+casting(989,7,34).
+casting(1000,7,12).
+casting(1001,30,50).
+casting(1022,6,37).
+casting(1025,3,8).
+casting(1033,2,12).
+casting(1038,14,17).
+casting(1045,30,71).
+casting(1050,6,25).
+casting(1051,20,22).
+casting(1060,21,15).
+casting(1071,2,9).
+casting(1071,21,2).
+casting(1084,26,64).
+casting(1098,6,38).
+casting(1099,2,8).
+casting(1099,27,23).
+casting(1110,14,50).
+casting(1113,12,71).
+casting(1120,19,26).
+casting(1136,32,14).
+casting(1139,4,31).
+casting(1155,9,12).
+casting(1159,31,7).
+casting(1181,8,35).
+casting(1199,18,8).
+casting(1202,15,12).
+casting(1222,1,3).
+casting(1222,6,3).
+casting(1224,15,1).
+casting(1231,25,13).
+casting(1236,9,30).
+casting(1236,16,8).
+casting(1280,16,42).
+casting(1280,24,55).
+casting(1323,14,34).
+casting(1331,21,32).
+casting(1345,4,26).
+casting(1357,9,6).
+casting(1394,30,23).
+casting(1400,14,46).
+casting(1406,27,4).
+casting(1410,15,3).
+casting(1413,30,9).
+casting(1421,8,79).
+casting(1423,9,15).
+casting(1453,15,4).
+casting(1457,30,39).
+casting(1457,32,15).
+casting(1462,25,2).
+casting(1462,34,17).
+casting(1464,6,26).
+casting(1467,21,49).
+casting(1474,21,45).
+casting(1479,2,27).
+casting(1486,14,21).
+casting(1505,26,18).
+casting(1515,7,5).
+casting(1531,17,4).
+casting(1556,30,12).
+casting(1559,33,10).
+casting(1560,6,15).
+casting(1569,13,12).
+casting(1574,33,6).
+casting(1580,28,19).
+casting(1586,18,7).
+casting(1621,25,26).
+casting(1625,4,45).
+casting(1634,25,4).
+casting(1639,19,31).
+casting(1640,17,14).
+casting(1682,28,24).
+casting(1692,14,26).
+casting(1695,9,10).
+casting(1697,8,32).
+casting(1704,16,28).
+casting(1748,24,3).
+casting(1749,14,47).
+casting(1763,14,38).
+casting(1764,34,7).
+casting(1776,4,8).
+casting(1776,26,17).
+casting(1782,12,55).
+casting(1806,3,6).
+casting(1822,30,7).
+casting(1824,12,37).
+casting(1837,21,31).
+casting(1837,26,5).
+casting(1838,8,28).
+casting(1841,4,9).
+casting(1851,26,21).
+casting(1875,14,43).
+casting(1880,5,56).
+casting(1889,25,40).
+casting(1932,7,13).
+casting(1933,1,9).
+casting(1933,6,6).
+casting(1933,31,25).
+casting(1941,20,31).
+casting(1950,27,12).
+casting(1976,16,33).
+casting(1977,32,17).
+casting(1981,16,41).
+casting(2034,34,28).
+casting(2040,10,6).
+casting(2044,1,16).
+casting(2044,6,27).
+casting(2052,16,45).
+casting(2071,28,8).
+casting(2089,8,73).
+casting(2090,8,54).
+casting(2111,14,31).
+casting(2116,23,10).
+casting(2121,16,37).
+casting(2132,12,89).
+casting(2146,12,80).
+casting(2185,24,19).
+casting(2189,1,22).
+casting(2196,2,33).
+casting(2197,14,8).
+casting(2203,10,11).
+casting(2204,12,46).
+casting(2204,19,33).
+casting(2212,16,21).
+casting(2217,7,35).
+casting(2229,16,27).
+casting(2230,19,30).
+casting(2233,5,36).
+casting(2241,25,16).
+casting(2254,7,36).
+casting(2304,11,9).
+casting(2323,24,57).
+casting(2323,26,25).
+casting(2340,26,44).
+casting(2341,34,18).
+casting(2358,16,5).
+casting(2377,26,3).
+casting(2377,30,5).
+casting(2411,10,31).
+casting(2432,27,9).
+casting(2433,16,3).
+casting(2441,3,4).
+casting(2475,8,95).
+casting(2536,4,49).
+casting(2536,25,19).
+casting(2538,8,60).
+casting(2547,30,18).
+casting(2555,24,12).
+casting(2555,30,45).
+casting(2557,16,20).
+casting(2563,4,25).
+casting(2567,2,20).
+casting(2570,18,3).
+casting(2581,2,14).
+casting(2588,4,75).
+casting(2645,22,1).
+casting(2646,4,18).
+casting(2647,22,2).
+casting(2679,22,25).
+casting(2705,4,5).
+casting(2710,20,20).
+casting(2718,23,33).
+casting(2726,10,28).
+casting(2727,11,10).
+casting(2740,30,83).
+casting(2751,21,22).
+casting(2759,7,24).
+casting(2759,9,21).
+casting(2761,8,23).
+casting(2764,6,9).
+casting(2769,14,9).
+casting(2778,2,7).
+casting(2780,14,7).
+casting(2816,28,4).
+casting(2817,8,94).
+casting(2820,21,20).
+casting(2842,28,9).
+casting(2845,9,2).
+casting(2848,30,38).
+casting(2864,1,17).
+casting(2899,20,7).
+casting(2903,7,29).
+casting(2911,25,35).
+casting(2913,12,3).
+casting(2913,30,4).
+casting(2917,19,6).
+casting(2930,14,22).
+casting(2930,24,22).
+casting(2954,12,83).
+casting(2954,30,31).
+casting(2969,10,30).
+casting(2970,12,9).
+casting(2974,25,37).
+casting(2979,35,2).
+casting(2985,24,11).
+casting(2990,25,9).
+casting(3046,32,12).
+casting(3052,16,25).
+casting(3054,5,45).
+casting(3067,9,9).
+casting(3069,23,13).
+casting(3100,35,12).
+casting(3118,4,11).
+casting(3121,31,14).
+casting(3123,30,25).
+casting(3125,7,20).
+casting(3144,18,1).
+casting(3156,25,39).
+casting(3161,8,53).
+casting(3161,26,14).
+casting(3192,26,10).
+casting(3216,16,26).
+casting(3218,24,5).
+casting(3227,35,15).
+casting(3270,24,47).
+casting(3272,1,2).
+casting(3272,3,1).
+casting(3272,6,2).
+casting(3272,10,1).
+casting(3272,28,10).
+casting(3284,8,20).
+casting(3285,29,4).
+casting(3294,14,51).
+casting(3297,25,15).
+casting(3301,20,5).
+casting(3304,8,10).
+casting(3308,2,45).
+casting(3308,27,1).
+casting(3317,24,13).
+casting(3333,24,49).
+casting(3340,29,9).
+casting(3426,26,38).
+casting(3443,22,22).
+casting(3448,17,1).
+casting(3455,5,8).
+casting(3462,29,6).
+casting(3463,6,30).
+casting(3489,26,35).
+casting(3490,17,2).
+casting(3506,21,12).
+casting(3519,10,23).
+casting(3526,25,21).
+casting(3528,33,8).
+casting(3547,25,12).
+casting(3561,26,42).
+casting(3563,6,32).
+casting(3564,8,62).
+casting(3580,30,69).
+casting(3581,35,9).
+casting(3603,34,21).
+casting(3609,1,12).
+casting(3609,6,12).
+casting(3611,9,14).
+casting(3611,19,17).
+casting(3613,28,21).
+casting(3668,28,14).
+casting(3676,14,19).
+casting(3682,23,3).
+casting(3687,26,60).
+casting(3691,5,12).
+casting(3691,22,8).
+casting(3695,19,9).
+casting(3698,24,53).
+casting(3703,8,13).
+casting(3704,35,7).
+casting(3722,3,11).
+casting(3727,7,49).
+casting(3731,4,48).
+casting(3754,8,9).
+casting(3757,30,41).
+casting(3767,25,11).
+casting(3772,7,8).
+casting(3777,25,30).
+casting(3791,8,43).
+casting(3804,30,59).
+casting(3832,4,17).
+casting(3836,25,24).
+casting(3841,25,22).
+casting(3854,8,40).
+casting(3896,30,21).
+casting(3915,23,27).
+casting(3932,8,3).
+casting(3932,32,3).
+casting(3941,25,28).
+casting(3952,7,9).
+casting(3968,4,30).
+casting(3968,13,8).
+casting(3968,16,10).
+casting(4006,1,20).
+casting(4020,8,96).
+casting(4027,6,33).
+casting(4038,28,11).
+casting(4097,30,33).
+casting(4101,16,24).
+casting(4102,8,93).
+casting(4103,14,16).
+casting(4117,5,54).
+casting(4143,3,10).
+casting(4164,14,1).
+casting(4168,12,95).
+casting(4184,8,68).
+casting(4201,16,6).
+casting(4213,5,55).
+casting(4216,30,16).
+casting(4221,3,9).
+casting(4239,21,14).
+casting(4265,6,11).
+casting(4278,8,99).
+casting(4281,6,29).
+casting(4297,18,11).
+casting(4320,8,36).
+casting(4331,24,26).
+casting(4331,26,9).
+casting(4335,8,52).
+casting(4337,20,21).
+casting(4340,24,6).
+casting(4341,23,14).
+casting(4345,18,2).
+casting(4346,31,5).
+casting(4370,30,78).
+casting(4373,26,61).
+casting(4407,7,19).
+casting(4411,29,5).
+casting(4418,5,23).
+casting(4422,26,36).
+casting(4424,13,24).
+casting(4435,30,84).
+casting(4441,23,7).
+casting(4461,5,41).
+casting(4462,26,40).
+casting(4482,17,12).
+casting(4483,7,45).
+casting(4486,6,31).
+casting(4487,10,5).
+casting(4497,31,17).
+casting(4508,30,35).
+casting(4510,26,4).
+casting(4516,8,22).
+casting(4520,2,4).
+casting(4526,12,59).
+casting(4527,4,56).
+casting(4562,8,92).
+casting(4567,21,3).
+casting(4578,19,2).
+casting(4580,4,7).
+casting(4593,22,3).
+casting(4594,32,18).
+casting(4612,2,21).
+casting(4630,32,8).
+casting(4631,21,54).
+casting(4633,26,34).
+casting(4636,7,14).
+casting(4662,34,9).
+casting(4672,26,33).
+casting(4677,8,5).
+casting(4680,7,15).
+casting(4708,2,46).
+casting(4714,6,17).
+casting(4720,33,7).
+casting(4725,24,23).
+casting(4733,30,81).
+casting(4734,19,28).
+casting(4748,33,2).
+casting(4782,10,2).
+casting(4789,2,36).
+casting(4803,21,48).
+casting(4808,14,3).
+casting(4819,4,2).
+casting(4831,30,6).
+casting(4840,6,14).
+casting(4845,4,4).
+casting(4846,2,37).
+casting(4857,35,4).
+casting(4859,11,1).
+casting(4860,22,16).
+casting(4904,9,18).
+casting(4906,16,13).
+casting(4913,26,62).
+casting(4919,7,41).
+casting(4936,6,16).
+casting(4948,14,25).
+casting(4950,1,7).
+casting(4950,6,8).
+casting(4965,28,15).
+casting(4968,22,17).
+casting(4973,3,13).
+casting(4975,30,2).
+casting(4980,8,82).
+casting(4993,12,26).
+casting(5000,9,4).
+casting(5003,8,59).
+casting(5004,9,5).
+casting(5004,24,30).
+casting(5005,21,52).
+casting(5040,8,89).
+casting(5046,10,24).
+casting(5046,13,26).
+casting(5048,27,8).
+casting(5052,12,38).
+casting(5067,33,4).
+casting(5102,14,53).
+casting(5109,13,5).
+casting(5126,7,10).
+casting(5126,20,16).
+casting(5154,32,2).
+casting(5161,2,3).
+casting(5169,14,52).
+casting(5173,28,7).
+casting(5181,2,47).
+casting(5181,27,17).
+casting(5185,14,4).
+casting(5186,27,6).
+casting(5190,19,4).
+casting(5191,25,3).
+casting(5200,21,53).
+casting(5203,25,10).
+casting(5208,33,19).
+casting(5220,14,14).
+casting(5227,8,25).
+casting(5227,24,43).
+casting(5233,24,35).
+casting(5235,23,18).
+casting(5259,11,5).
+casting(5266,4,1).
+casting(5267,17,13).
+casting(5284,1,24).
+casting(5285,8,57).
+casting(5296,24,44).
+casting(5299,5,50).
+casting(5305,33,16).
+casting(5323,16,2).
+casting(5328,2,39).
+casting(5328,27,18).
+casting(5329,4,32).
+casting(5348,25,17).
+casting(5350,21,40).
+casting(5351,8,15).
+casting(5361,21,59).
+casting(5375,25,41).
+casting(5395,30,11).
+casting(5441,9,20).
+casting(5445,30,53).
+casting(5446,34,20).
+casting(5447,34,11).
+casting(5488,8,64).
+casting(5501,3,5).
+casting(5511,17,9).
+casting(5512,21,13).
+casting(5514,31,16).
+casting(5525,8,17).
+casting(5535,25,25).
+casting(5537,19,25).
+casting(5540,5,57).
+casting(5544,31,1).
+casting(5547,15,15).
+casting(5548,5,31).
+casting(5551,15,2).
+casting(5570,28,28).
+casting(5575,25,7).
+casting(5575,30,14).
+casting(5610,8,8).
+casting(5618,11,6).
+casting(5618,31,21).
+casting(5624,15,16).
+casting(5639,2,35).
+casting(5658,19,7).
+casting(5684,8,80).
+casting(5691,24,33).
+casting(5695,16,46).
+casting(5703,1,1).
+casting(5703,6,1).
+casting(5717,12,42).
+casting(5723,7,7).
+casting(5723,13,10).
+casting(5731,30,43).
+casting(5734,12,92).
+casting(5739,23,1).
+casting(5739,28,1).
+casting(5746,26,24).
+casting(5758,32,6).
+casting(5762,4,34).
+casting(5766,5,44).
+casting(5769,24,38).
+casting(5770,28,3).
+casting(5804,30,17).
+casting(5811,8,4).
+casting(5823,34,27).
+casting(5847,21,42).
+casting(5864,10,16).
+casting(5892,30,20).
+casting(5894,30,28).
+casting(5905,30,48).
+casting(5921,5,1).
+casting(5923,15,11).
+casting(5960,31,3).
+casting(5997,34,1).
+casting(5998,13,3).
+casting(5998,26,7).
+casting(6005,12,65).
+casting(6006,5,30).
+casting(6023,6,19).
+casting(6031,19,5).
+casting(6037,4,28).
+casting(6054,31,10).
+casting(6065,25,1).
+casting(6068,12,82).
+casting(6084,27,3).
+casting(6087,24,39).
+casting(6100,18,6).
+casting(6108,24,29).
+casting(6123,6,18).
+casting(6127,27,15).
+casting(6140,8,47).
+casting(6179,32,13).
+casting(6201,12,57).
+casting(6208,16,40).
+casting(6216,30,19).
+casting(6254,8,26).
+casting(6287,7,2).
+casting(6287,24,1).
+casting(6289,3,12).
+casting(6291,23,17).
+casting(6297,8,98).
+casting(6310,12,4).
+casting(6349,34,12).
+casting(6357,19,12).
+casting(6360,7,31).
+casting(6364,30,29).
+casting(6371,7,11).
+casting(6373,18,9).
+casting(6376,7,30).
+casting(6381,8,84).
+casting(6390,5,49).
+casting(6394,4,15).
+casting(6437,26,2).
+casting(6453,16,31).
+casting(6467,16,30).
+casting(6482,25,31).
+casting(6488,6,34).
+casting(6501,6,35).
+casting(6508,14,29).
+casting(6520,6,23).
+casting(6593,14,23).
+casting(6598,10,20).
+casting(6627,31,2).
+casting(6645,5,3).
+casting(6654,19,1).
+casting(6665,19,20).
+casting(6668,30,68).
+casting(6670,10,3).
+casting(6674,13,17).
+casting(6690,9,11).
+casting(6702,2,11).
+casting(6721,17,3).
+casting(6736,14,27).
+casting(6737,8,49).
+casting(6741,30,80).
+casting(6745,7,16).
+casting(6754,12,87).
+casting(6755,13,4).
+casting(6809,9,7).
+casting(6816,2,41).
+casting(6821,1,8).
+casting(6821,6,7).
+casting(6834,34,2).
+casting(6837,35,6).
+casting(6845,15,10).
+casting(6848,24,8).
+casting(6850,1,4).
+casting(6851,12,16).
+casting(6861,15,9).
+casting(6873,16,49).
+casting(6879,17,7).
+casting(6891,5,43).
+casting(6891,22,7).
+casting(6902,16,15).
+casting(6904,35,1).
+casting(6906,20,3).
+casting(6924,5,52).
+casting(6938,34,23).
+casting(6939,31,19).
+casting(7006,2,44).
+casting(7006,27,10).
+casting(7010,24,10).
+casting(7022,24,48).
+casting(7043,33,1).
+casting(7051,26,45).
+casting(7060,8,83).
+casting(7060,30,58).
+casting(7076,8,61).
+casting(7079,8,7).
+casting(7081,8,30).
+casting(7095,6,36).
+casting(7100,30,27).
+casting(7112,33,17).
+casting(7117,26,51).
+casting(7122,25,32).
+casting(7130,4,82).
+casting(7141,24,9).
+casting(7180,13,11).
+casting(7183,2,31).
+casting(7183,27,11).
+casting(7203,32,4).
+casting(7219,23,21).
+casting(7251,4,22).
+casting(7265,32,22).
+casting(7268,25,27).
+casting(7270,1,23).
+casting(7271,5,47).
+casting(7283,6,28).
+casting(7285,24,31).
+casting(7291,24,17).
+casting(7294,24,52).
+casting(7297,8,66).
+casting(7336,21,21).
+casting(7380,11,7).
+casting(7382,22,5).
+casting(7394,16,4).
+casting(7432,23,5).
+casting(7432,28,2).
+casting(7444,7,38).
+casting(7453,24,28).
+casting(7462,25,34).
+casting(7472,8,6).
+casting(7492,19,14).
+casting(7502,2,30).
+casting(7502,27,16).
+casting(7522,16,14).
+casting(7547,12,2).
+casting(7547,15,8).
+casting(7556,4,39).
+casting(7577,14,32).
+casting(7577,30,64).
+casting(7592,7,50).
+casting(7600,19,29).
+casting(7603,16,36).
+casting(7612,4,24).
+casting(7624,8,77).
+casting(7633,14,33).
+casting(7640,10,4).
+casting(7653,4,35).
+casting(7657,2,13).
+casting(7676,8,16).
+casting(7697,21,17).
+casting(7705,23,15).
+casting(7717,5,29).
+casting(7735,3,2).
+casting(7746,30,57).
+casting(7753,16,7).
+casting(7756,25,33).
+casting(7765,12,5).
+casting(7767,18,14).
+casting(7770,20,8).
+casting(7775,12,12).
+casting(7777,28,6).
+casting(7788,32,1).
+casting(7800,26,54).
+casting(7810,2,5).
+casting(7810,32,10).
+casting(7856,8,86).
+casting(7857,34,5).
+casting(7874,14,5).
+casting(7874,28,12).
+casting(7892,11,8).
+casting(7896,26,1).
+casting(7903,5,13).
+casting(7913,3,3).
+casting(7930,35,14).
+casting(7933,24,51).
+casting(7937,20,15).
+casting(7959,4,90).
+casting(7966,31,15).
+casting(7968,1,11).
+casting(7975,793,2).
+casting(7975,910,1).
+casting(7975,975,3).
+casting(7975,1353,2).
+casting(7994,22,12).
+casting(8011,13,1).
+casting(8011,29,2).
+casting(8015,21,8).
+casting(8026,23,30).
+casting(8028,12,17).
+casting(8036,35,5).
+casting(8036,39,7).
+casting(8036,910,7).
+casting(8103,9,1).
+casting(8105,21,60).
+casting(8131,12,72).
+casting(8133,23,6).
+casting(8133,35,3).
+casting(8139,20,24).
+casting(8148,2,23).
+casting(8148,20,2).
+casting(8148,27,5).
+casting(8154,8,33).
+casting(8173,30,51).
+casting(8175,20,12).
+casting(8186,27,20).
+casting(8188,31,22).
+casting(8229,14,10).
+casting(8273,22,10).
+casting(8288,4,13).
+casting(8288,9,8).
+casting(8295,17,6).
+casting(8296,34,15).
+casting(8319,23,12).
+casting(8322,5,35).
+casting(8348,10,34).
+casting(8351,14,18).
+casting(8353,34,19).
+casting(8366,23,25).
+casting(8382,16,44).
+casting(8388,4,57).
+casting(8390,18,4).
+casting(8391,18,5).
+casting(8397,10,26).
+casting(8414,8,42).
+casting(8414,30,54).
+casting(8418,30,82).
+casting(8426,8,90).
+casting(8427,25,5).
+casting(8435,26,43).
+casting(8472,8,38).
+casting(8481,7,1).
+casting(8483,2,1).
+casting(8483,27,2).
+casting(8530,30,60).
+casting(8532,26,20).
+casting(8532,30,37).
+casting(8538,28,17).
+casting(8548,30,24).
+casting(8562,12,1).
+casting(8562,30,1).
+casting(8597,29,1).
+casting(8601,26,55).
+casting(8612,5,25).
+casting(8616,14,48).
+casting(8621,25,38).
+casting(8656,23,23).
+casting(8680,16,34).
+casting(8683,26,11).
+casting(8684,10,33).
+casting(8691,14,24).
+casting(8697,35,8).
+casting(8698,30,15).
+casting(8720,24,32).
+casting(8725,10,22).
+casting(8735,2,15).
+casting(8757,4,87).
+casting(8757,16,48).
+casting(8761,8,74).
+casting(8767,2,38).
+casting(8777,29,3).
+casting(8781,10,10).
+casting(8792,4,12).
+casting(8832,34,26).
+casting(8838,2,10).
+casting(8850,9,23).
+casting(8851,23,24).
+casting(8857,8,14).
+casting(8875,15,5).
+casting(8899,30,49).
+casting(8908,31,4).
+casting(8911,20,13).
+casting(8920,20,25).
+casting(8924,30,32).
+casting(8928,32,11).
+casting(8935,25,8).
+casting(8946,8,78).
+casting(8961,32,16).
+casting(8971,25,20).
+casting(8978,34,24).
+casting(8979,8,1).
+casting(8983,33,3).
+casting(9005,34,8).
+casting(9009,26,6).
+casting(9014,20,1).
+casting(9017,1,18).
+casting(9017,10,12).
+casting(9018,13,7).
+casting(9029,5,33).
+casting(9040,34,22).
+casting(9043,7,4).
+casting(9044,3,7).
+casting(9060,26,39).
+casting(9062,15,14).
+casting(9069,10,8).
+casting(9081,16,11).
+casting(9081,30,8).
+casting(9087,29,7).
+movie(1,'Star Wars',1977,8.9,14182).
+movie(2,'Pulp Fiction',1994,8.4,11693).
+movie(3,'Blade Runner',1982,8.6,8665).
+movie(4,'Titanic',1997,9.2,8129).
+movie(5,'Braveheart',1995,8.4,8074).
+movie(6,'Empire Strikes Back, The',1980,8.5,8050).
+movie(7,'Shawshank Redemption, The',1994,8.8,7850).
+movie(8,'Independence Day',1996,7.0,7138).
+movie(9,'Usual Suspects, The',1995,8.7,6981).
+movie(10,'Raiders of the Lost Ark',1981,8.4,6488).
+movie(11,'2001: A Space Odyssey',1968,8.4,6413).
+movie(12,'Forrest Gump',1994,7.8,6269).
+movie(13,'Aliens',1986,8.3,5811).
+movie(14,'Silence of the Lambs, The',1991,8.3,5715).
+movie(15,'Princess Bride, The',1987,8.4,5522).
+movie(16,'Terminator 2: Judgment Day',1991,8.0,5513).
+movie(17,'Casablanca',1942,8.7,5489).
+movie(18,'Monty Python and the Holy Grail',1974,8.4,5319).
+movie(19,'Star Trek: First Contact',1996,8.2,5298).
+movie(20,'Fargo',1996,8.2,5293).
+movie(21,'Twelve Monkeys',1995,8.0,5287).
+movie(22,'Trainspotting',1996,8.1,5233).
+movie(23,'Godfather, The',1972,8.7,5211).
+movie(24,'Se7en',1995,8.1,5107).
+movie(25,'Back to the Future',1985,7.8,5103).
+movie(26,'Rock, The',1996,8.0,4938).
+movie(27,'Reservoir Dogs',1992,8.3,4861).
+movie(28,'Apocalypse Now',1979,8.3,4860).
+movie(29,'Alien',1979,8.2,4828).
+movie(30,'Apollo 13',1995,7.8,4778).
+movie(31,'Clockwork Orange, A',1971,8.4,4767).
+movie(32,'Jurassic Park',1993,7.4,4707).
+movie(33,'English Patient, The',1996,8.1,4689).
+movie(34,'One Flew Over the Cuckoo\'s Nest',1975,8.5,4545).
+movie(35,'Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb',1963,8.6,4451).
+movie(39,'Terminator, The',1984,7.8,4225).
+movie(48,'True Lies',1994,7.3,3601).
+movie(94,'Total Recall',1990,7.1,2305).
+movie(180,'Predator',1987,7.2,1604).
+movie(263,'Conan the Barbarian',1981,6.9,1271).
+movie(321,'Twins',1988,6.3,1126).
+movie(334,'Last Action Hero',1993,5.9,1107).
+movie(410,'Dave',1993,7.4,962).
+movie(440,'Kindergarten Cop',1990,6.2,894).
+movie(471,'Running Man, The',1987,6.3,856).
+movie(629,'Commando',1985,6.1,673).
+movie(746,'Conan the Destroyer',1984,5.4,542).
+movie(793,'Money Pit, The',1986,5.8,482).
+movie(910,'Brady Bunch Movie, The',1995,6.3,412).
+movie(932,'Red Heat',1988,5.8,402).
+movie(960,'Terminator 2: 3-D',1996,8.7,384).
+movie(975,'Night Shift',1982,6.6,377).
+movie(1106,'Junior',1994,5.9,329).
+movie(1339,'Jingle All the Way',1996,6.0,262).
+movie(1353,'Outrageous Fortune',1987,6.1,258).
+movie(1551,'Raw Deal',1986,5.0,215).
+movie(1622,'Batman and Robin',1997,3.9,1925).
+movie(1644,'Red Sonja',1985,4.6,404).
+:-type(actor(actorid:int,name:string)).
+:-type(casting(actorid:int,movieid:int,ordinal:int)).
+:-type(movie(movieid:int,title:string,year:int,score:real,votes:int)).

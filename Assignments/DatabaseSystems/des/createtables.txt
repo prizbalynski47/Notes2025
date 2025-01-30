@@ -1,0 +1,4 @@
+CREATE  TABLE movie ( movieid int, title string, year int, score float, votes int)
+CREATE  TABLE actor ( actorid int, name string)
+
+CREATE  TABLE casting (actorid int, movieid int, ordinal int)

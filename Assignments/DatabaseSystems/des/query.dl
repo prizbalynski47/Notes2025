@@ -1,0 +1,28 @@
+% Problem 1
+twoMovies(Name, Title1, Title2) :-
+    casting(A, M1, _),
+    casting(A, M2, _),
+    M1 < M2,
+    movie(M1, Title1, _, _, _),
+    movie(M2, Title2, _, _, _),
+    actor(A, Name).
+
+% Problem 2
+linkedMovies(From, To) :-
+    movie(M1, From, _, _, _),
+    movie(M2, To, _, _, _),
+    casting(A, M1, _),
+    casting(A, M2, _),
+    M1 \= M2.
+
+linkedMovies(From, To) :-
+    linkedMovies(From, Intermediate),
+    linkedMovies(Intermediate, To),
+    From \= To.
+
+% Problem 3
+movieCastSize(Title, Count) :-
+    movie(M, Title, _, _, _),
+    count(casting(A, M, _), A, Count).
+
+% Problem 4

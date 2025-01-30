@@ -1,0 +1,5 @@
+#Sun Jan 24 22:06:28 CET 2021
+order=cardinality
+debug=full
+trust_tables=yes
+trust_file=
