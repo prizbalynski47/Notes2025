@@ -26,16 +26,14 @@ movieCastSize(Title, Count) :-
     count(casting(A, M, _), A, Count).
 
 % Problem 4
-% Step 1: Identify "Star Wars" and its decade
-starWarsDecade(Y) :-
+starWarsDecade(D) :-
+    movie(1, _, Y, _, _),
+    D = (Y // 10) * 10.
+
+movieDecade(M, D) :-
     movie(M, _, Y, _, _),
-    M = 1.
+    D = (Y // 10) * 10.
 
-% Step 2: Assign each movie to its decade
-movieDecade(M, Y) :-
-    movie(M, _, Y, _, _).
-
-% Step 3: Identify movies directly linked to a later generation via actors
 linkedByActor(M1, M2) :-
     movieDecade(M1, D1),
     movieDecade(M2, D2),
@@ -43,22 +41,23 @@ linkedByActor(M1, M2) :-
     casting(A, M2, _),
     D1 < D2.  % Enforce later movie relationship
 
-% Step 4: Define movies in the same generation
-generation(M1, M2) :-
+generationHelper(M1, M2) :-
     movieDecade(M1, D),
     movieDecade(M2, D),  % Same decade
     M1 \= M2.
 
-% Step 5: Expand generations transitively through actor links
-generation(M1, M2) :-
-    generation(M1, M3),
+generationHelper(M1, M2) :-
+    generationHelper(M1, M3),
     linkedByActor(M3, M2),
     M1 \= M2.
 
-% Step 6: Filter only movies connected to "Star Wars"
-generationRelativeToStarWars(M1, M2) :-
+generation(Title1, Title2) :-
+    movie(M1, Title1, _, _, _),
+    movie(M2, Title2, _, _, _),
     starWarsDecade(D),
     movieDecade(SW, D),
-    generation(SW, M1),
-    generation(SW, M2),
+    generationHelper(SW, M1),
+    generationHelper(SW, M2),
     M1 \= M2.
+
+% I feel like I've made a real mess of this last problem, but I need to go to bed.
