@@ -1,0 +1,9 @@
+In partitioned Global Address Space (PGAS) the memory across all processing units is treated as one big memory space, and you have pieces that are partitioned off as local memory for each processing unit with everything else being considered remote memory.
+
+In Message Passing languages, each processor has its own local memory data exchange occurs via message sent from one process to another.
+
+The main difference between the two is in a PGAS all processors can access any memory directly, they just require inter-processor communication before accessing remote memory. The Message Passing languages on the other hand never access another process's memory and instead pass data between one another to operate on in their own space.
+
+PGAS would be a good choice in something like a large-scale physics simulation. It is a very scalable model, and it is easier for each processor to access data from its neighboring processors.
+
+Message Passing would be good for something like graph traversal, where each processor can process a subset of the graph's nodes and would not need frequent access to any other processor's data.
