@@ -5,6 +5,8 @@
 #include <thread>
 #include <mutex>
 
+#include <string>
+
 std::mutex bin_mutex;
 
 int RANDOM_SEED = 100;
@@ -92,6 +94,12 @@ void computeHistogramThreadTree(const std::vector<float>& data, int start, int e
         int bin_index = (val - min_meas) / bin_width;
         if (bin_index >= num_bins) bin_index = num_bins - 1;
         local_bin_counts[bin_index]++;
+    }
+
+    for (int j = 0; j < local_bin_counts.size(); j++)
+    {
+        std::string out = "bin " + std::to_string(j) + " = " + std::to_string(local_bin_counts[j]);
+        std::cout << out << std::endl;
     }
 }
 
@@ -222,3 +230,44 @@ int main(int argc, char* argv[])
 
     return 0;
 }
+
+// bin 0 = 4
+// bin 0 = 4
+// bin 1 = 4
+// bin 2 = 3
+// bin 3 = 3
+// bin 4 = 3
+// bin 5 = 3
+// bin 6 = 0
+// bin 7 = 2
+// bin 8 = 1
+// bin 9 = 2
+// bin 0 = 2
+// bin 1 = 2
+// bin 2 = 1
+// bin 3 = 7
+// bin 4 = 1
+// bin 5 = 5
+// bin 6 = 2
+// bin 7 = 2
+// bin 0 = 3
+// bin 1 = 0
+// bin 2 = 2
+// bin 3 = 4
+// bin 4 = 3
+// bin 5 = 4
+// bin 6 = 4
+// bin 7 = 3
+// bin 8 = 1
+// bin 9 = 1
+// bin 8 = 1
+// bin 9 = 2
+// bin 1 = 5
+// bin 2 = 2
+// bin 3 = 3
+// bin 4 = 2
+// bin 5 = 3
+// bin 6 = 1
+// bin 7 = 4
+// bin 8 = 0
+// bin 9 = 1
