@@ -1,0 +1,33 @@
+// 1. 
+MATCH (kevin:Person {name: "Kevin Bacon"})-[:ACTED_IN]->(movie:Movie)
+RETURN movie.title AS Movie
+// 2.
+MATCH (p:Person)-[:ACTED_IN]->(:Movie), (p)-[:DIRECTED]->(:Movie)
+SET p:ACTORDIRECTOR
+RETURN p.name AS Name, labels(p) AS Labels
+// 3.
+MATCH (kevin:Person {name: "Kevin Bacon"})-[:ACTED_IN]->(movie:Movie)<-[:ACTED_IN]-(coactor:Person)
+WHERE coactor.name <> "Kevin Bacon"
+RETURN COUNT(DISTINCT coactor) AS CoActorCount
+// 4.
+MATCH (kevin:Person {name: "Kevin Bacon"})-[:ACTED_IN*1..3]-(actor:Person)
+WHERE actor.name <> "Kevin Bacon"
+RETURN DISTINCT actor.name AS Name
+// 5.
+MATCH (actor:Person)-[:ACTED_IN]->(m:Movie)<-[:DIRECTED]-(actor)
+RETURN actor.name AS Name, m.title AS Movie
+// 6.
+MATCH (actor:Person)-[:ACTED_IN]->(m:Movie)
+WITH actor, COUNT(m) AS movieCount
+WHERE movieCount > 3
+RETURN actor.name as Name
+// 7.
+Match path = shortestPath(
+	(kevin:Person {name: "Kevin Bacon"})-[:ACTED_IN|DIRECTED*]-(emile:Person {name: "Emile Hirsch"})
+)
+RETURN path
+// 8.
+MATCH (emile:Person {name: "Emile Hirsch"})-[:ACTED_IN]->(m1:Movie), (actor:Person)-[:ACTED_IN]->(m2:Movie)
+WITH actor, COLLECT(m1.title) AS emileMovies, COLLECT(m2.title) AS actorMovies
+WHERE apoc.coll.containsAll(actorMovies, emileMovies)
+RETURN actor.name AS Name
