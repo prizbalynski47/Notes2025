@@ -1,0 +1,76 @@
+/* Used for embed feeds on home pages.  */
+.embed-feed h3 {
+    font-size: 17px;
+}
+.embed-feed h5 {
+    margin-top: 0px;
+}
+.embed-feed .description {
+    clear: both;
+}
+.embed-feed .details {
+    padding: 0 15px;
+}
+
+/* Styling for Image Card Component */
+.image-card {
+    background: #ffffff;
+    box-shadow: 0 2px 2px 0 rgba(0,0,0,0.2);
+    margin-bottom: 13px;
+    -webkit-transition: all 450ms ease-in;
+    transition: all 450ms ease-in;
+}
+
+.image-card img {
+    margin: 0;
+}
+
+.image-card .image-card-body {
+    border-top: 4px solid #0f2439;
+    padding-top: 18px;
+    padding-bottom: 20px;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+/* Styling for Contact Card Component and Contact Card CP Feed Style */
+.contact-card {
+    box-shadow: 0 2px 5px rgba(0,0,0,.2);
+}
+
+.contact-card .contact-card-primary-info {
+    margin-left: -15px;
+}
+
+.contact-card .contact-card-body img{
+    padding: 15px 0;
+    margin-bottom: 0;
+}
+
+.contact-card .contact-card-body{
+    padding: 0 15px;
+}
+
+.contact-card-footer {
+    margin-top: -15px;
+    padding: 10px;
+    background-color: #e8e8e8;
+}
+
+.contact-card-footer span {
+    padding: 10px;
+}
+
+.contact-card .contact-card-name {
+    margin-bottom: 0px;
+}
+
+.contact-card .contact-card-body .contact-card-email a {
+    font-weight: 600;
+    color: #384660;
+    text-decoration: none;
+}
+
+.contact-card .contact-card-body .contact-card-email a:hover {
+    color: #42567c;
+}

@@ -1,0 +1,69 @@
+1.  Precision: 8/18 
+    Recall: 8/20
+
+2.  Term frequency:
+        doc1:
+            computer: 48/7156
+            doctoral: 0/7156
+            algorithms: 1/7156
+            watson: 0/7156
+        doc2:
+            computer: 15/6984
+            doctoral: 0/6984
+            algorithms: 2/6984
+            watson: 0/6984
+        doc3:
+            computer: 18/8116
+            doctoral: 0/8116
+            algorithms: 5/8116
+            watson: 0/8116
+        doc4:
+            computer: 25/5877
+            doctoral: 0/5877
+            algorithms: 0/5877
+            watson: 1/5877
+        All documents:
+            computer: 106/28133
+            doctoral: 0/28133
+            algorithms: 8/28133
+            watson: 1/28133
+    IDF:
+        computer: 0
+        doctoral: Undefined
+        algorithms: 0.288
+        watson: 1.386
+
+4. 
+    a.
+    SELECT Book#, Total_stock
+    FROM BOOKS_b2
+    WHERE $price > 15 AND $price < 55;
+
+    SELECT Book#, Total_stock
+    FROM BOOKS_b2
+    WHERE $price > 15 AND $price < 55;
+
+    SELECT Book#, Total_stock
+    FROM BOOKS_b1
+    WHERE $price > 15 AND $price <= 20;
+    b.
+    Book# 1234 was originaly stored in b2, which was at MIDDLE and WEST, now it will be in b3 which is only at WEST
+    At MIDDLE
+    DELETE FROM BOOKS_b2
+    WHERE Book# = 1234;
+    Just at WEST:
+    INSERT INTO BOOKS_b3 (Book#, Primary_author, Topic, Total_stock, $price)
+    VALUES (1234, 'Primary_author_value', 'Topic_value', Total_stock_value, 55);
+    
+    DELETE FROM BOOKS_b2
+    WHERE Book# = 1234;
+    c.
+    SELECT Book#, SUM(Qty)
+    FROM STOCK
+    WHERE Store# IN (
+        SELECT Store#
+        FROM BOOKSTORE
+        WHERE State = 'IL'
+    )
+    GROUP BY Book#;
+    d.

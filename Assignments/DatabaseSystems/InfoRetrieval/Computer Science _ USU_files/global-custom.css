@@ -1,0 +1,117 @@
+/* Variables */
+:root {
+	--bs4-warning: rgb(255, 193, 7);
+}
+
+/* News Cards only, text will wrap if class of text-break is present */
+.card-news > .row > [class*="col-"]:nth-child(2).text-break {
+	display:block;
+}
+
+/*Hot fix to be deleted on launch of new xslt hero banner code */
+.video-banner {
+	z-index: 50;
+}
+
+/* Media Queries */
+
+@media (max-width:575px) {
+
+}
+
+@media (min-width: 576px){
+	
+}
+
+@media (min-width: 768px){
+
+}
+
+@media (min-width: 992px){
+	
+}
+
+@media (min-width:1200px){
+	
+}
+
+/* Adds a dashed box around an element (will not display on live pages). */
+.qcc-box {
+	border: dashed var(--bs4-warning);
+	overflow: auto;
+	position: relative;
+	width: -moz-fit-content;
+	width: fit-content;
+}
+
+/* When editing a pcf, adds a warning on images that don't have alt text (will not display on live pages). */
+.no-alt-text {
+	position: relative;
+}
+
+.no-alt-text > .no-alt-text-message {
+	background-color: var(--bs4-warning);
+	padding: .4em;
+	
+	position: absolute;
+	bottom: 0;
+	right: 0;
+}
+
+.no-alt-text > .no-alt-text-message > a {
+	color: white;
+}
+
+/* When editing a pcf, adds a warning on links that have generic, unhelpful text such as "click here" or "read more". */
+.undescriptive-link {
+	background-color: var(--bs4-warning);
+	color: white;
+	margin-left: .2em;
+	padding: 0 .2em;
+	
+	position: relative;
+}
+
+.undescriptive-link:hover > span {
+	visibility: hidden;
+}
+
+.undescriptive-link > a {
+	display: none;
+}
+
+.undescriptive-link:hover > a {
+	background-color: var(--bs4-warning);
+	color: white;
+	display: initial;
+	padding: 2px .2em;
+	width: max-content;
+	
+	position: absolute;
+	left: 0;
+	top: -3px;
+}
+
+/* When editing a pcf, adds a warning on paragraphs with lorem ipsum text. */
+.ipsum-warning {
+	background-color: var(--bs4-warning);
+	color: white;
+	margin-left: .2em;
+	padding: 0 .2em;
+	
+	position: absolute;
+	bottom: 0;
+	right: 0;
+}
+
+.ipsum-warning:hover > div:nth-child(1), .ipsum-warning > div:nth-child(2) {
+	display: none;
+}
+
+.ipsum-warning:hover > div:nth-child(2) {
+	background-color: var(--bs4-warning);
+	color: white;
+	display: initial;
+	padding: 2px .2em;
+	user-select: none;
+}
