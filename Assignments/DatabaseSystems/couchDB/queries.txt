@@ -1,0 +1,58 @@
+----View 1: Count the randomArrayItems
+{
+  "_id": "_design/countRandomArrayItems",
+  "language": "javascript",
+  "views": {
+    "countRandomArrayItems": {
+      "map": "function(doc) {\n  if (doc.data && Array.isArray(doc.data)) {\n    for (var i = 0; i < doc.data.length; i++) {\n      var item = doc.data[i];\n      if (item.randomArrayItem) {\n        emit(item.randomArrayItem, 1);\n      }\n  }\n  }\n}",
+      "reduce": "function(keys, values, rereduce) {\n  return sum(values);\n}"
+    }
+  }
+}
+
+----View 2: Count of people by gender
+{
+  "_id": "_design/countByGender",
+  "language": "javascript",
+  "views": {
+    "countByGender": {
+      "map": "function(doc) {\n  if (doc.data && Array.isArray(doc.data)) {\n    for (var i = 0; i < doc.data.length; i++) {\n      var person = doc.data[i];\n      if (person.gender) {\n        emit(person.gender, 1);\n      }\n    }\n  }\n}",
+      "reduce": "function(keys, values, rereduce) {\n  return sum(values);\n}"
+    }
+  }
+}
+
+----View 3: Count of people by gender and name
+{
+  "_id": "_design/countByGenderAndName",
+  "language": "javascript",
+  "views": {
+    "countByGenderAndName": {
+      "map": "function(doc) {\n  if (doc.data && Array.isArray(doc.data)) {\n    for (var i = 0; i < doc.data.length; i++) {\n      var person = doc.data[i];\n      if (person.gender && person.name) {\n        emit([person.gender, person.name], 1);\n      }\n    }\n  }\n}",
+      "reduce": "function(keys, values, rereduce) {\n  return sum(values);\n}"
+    }
+  }
+}
+
+----View 4: A count of the people by tags
+{
+  "_id": "_design/countByTag",
+  "language": "javascript",
+  "views": {
+    "countByTag": {
+      "map": "function(doc) {\n  if (doc.data && Array.isArray(doc.data)) {\n    for (var i = 0; i < doc.data.length; i++) {\n      var person = doc.data[i];\n      if (Array.isArray(person.tags)) {\n        for (var j = 0; j < person.tags.length; j++) {\n          emit(person.tags[j], 1);\n        }\n      }\n    }\n  }\n}",
+      "reduce": "function(keys, values, rereduce) {\n  return sum(values);\n}"
+    }
+  }
+}
+
+----View 5: The JSON of the latitude, longitude, and address of each employee that has a latitude of more than 80
+{
+  "_id": "_design/peopleWithHighLatitude",
+  "language": "javascript",
+  "views": {
+    "highLatitudePeople": {
+      "map": "function(doc) {\n  if (doc.data && Array.isArray(doc.data)) {\n    for (var i = 0; i < doc.data.length; i++) {\n      var person = doc.data[i];\n      if (person.latitude > 80) {\n        emit(person._id || person.name, {\n          latitude: person.latitude,\n          longitude: person.longitude,\n          address: person.address\n        });\n      }\n    }\n  }\n}"
+    }
+  }
+}
